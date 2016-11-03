@@ -18,56 +18,56 @@
     <!-- ###-->
 
     <!-- Character info dialog strings -->
-    <string name="class1">Class 1</string>
-    <string name="class2">Class 2</string>
-    <string name="type">Type</string>
-    <string name="stars">Stars</string>
-    <string name="cost">Cost</string>
+    <string name="class1">Clase 1</string>
+    <string name="class2">Clase 2</string>
+    <string name="type">Tipo</string>
+    <string name="stars">Estrellas</string>
+    <string name="cost">Coste</string>
     <string name="combo">Combo</string>
-    <string name="slots">Slots</string>
-    <string name="maxlevel">Max Level</string>
-    <string name="exptomax">Max Exp</string>
+    <string name="slots">Sockets</string>
+    <string name="maxlevel">Nivel máximo</string>
+    <string name="exptomax">Experiencia máxima</string>
     <string name="level">Level</string>
     <string name="hp">HP</string>
     <string name="atk">ATK</string>
     <string name="rcv">RCV</string>
     <string name="lvl1">1</string>
     <string name="lvlmax">MAX</string>
-    <string name="captability">Captain Ability</string>
-    <string name="specability">Special:</string>
+    <string name="captability">Habilidad de capitán</string>
+    <string name="specability">Especial:</string>
     <string name="speccooldown">Cooldowns (max/min):</string>
 
     <!-- Filter box hint text -->
-    <string name="filter_hint">Search by name or ID</string>
+    <string name="filter_hint">Buscar por nombre o ID</string>
 
     <!-- Updates text -->
-    <string name="update_msg">An update is out! Do you want to install it?</string>
-    <string name="update_btn">Sure</string>
+    <string name="update_msg">Hay una nueva actualización, ¿quieres descargarla?</string>
+    <string name="update_btn">Claro</string>
 
     //APP LOADING
-    <string name="loadingmsg">Please wait while loading data…</string>
-    <string name="loading_characters">Updating characters list</string>
-    <string name="downloading_cooldowns">Downloading cooldowns</string>
-    <string name="loading_cooldowns">Updating cooldowns</string>
-    <string name="downloading_abilities">Downloading abilities</string>
-    <string name="loading_abilities">Updating abilities</string>
-    <string name="downloading_evolutions">Downloading evolutions</string>
-    <string name="loading_evolutions">Updating evolutions</string>
+    <string name="loadingmsg">Por favor, espera mientras se descargan los datos</string>
+    <string name="loading_characters">Actualizando lista de personajes</string>
+    <string name="downloading_cooldowns">Descargando cooldowns</string>
+    <string name="loading_cooldowns">Actualizando cooldowns</string>
+    <string name="downloading_abilities">Descargando habilidades</string>
+    <string name="loading_abilities">Actualizando habilidades</string>
+    <string name="downloading_evolutions">Descargando evoluciones</string>
+    <string name="loading_evolutions">Actualizando evoluciones</string>
 
-    <string name="evolutions">Character evolutions:</string>
+    <string name="evolutions">Evoluciones de personajes:</string>
 
-    <string name="notes_text">"Notes: "</string>
+    <string name="notes_text">"Notas: "</string>
 
-    <string name="tab_maininfo">Main Info</string>
-    <string name="tab_abilities">Abilities</string>
-    <string name="tab_evolutions">Evolutions</string>
+    <string name="tab_maininfo">Información principal</string>
+    <string name="tab_abilities">Habilidades</string>
+    <string name="tab_evolutions">Evoluciones</string>
 
-    <string name="reset_db_title">Database reset</string>
-    <string name="reset_db_message">Are you sure you want to reset and download again the DB?</string>
+    <string name="reset_db_title">Reseteo de la base de datos</string>
+    <string name="reset_db_message">Estás seguro de que quieres reiniciar e instalar de nuevo la DB</string>
     <string name="reset_db_cancel">No</string>
-    <string name="reset_db_confirm">Yes</string>
+    <string name="reset_db_confirm">Sí</string>
 
-    <string name="enable_unknown_sources_first">To install this app you need to enable unknown sources from your device settings first!</string>
+    <string name="enable_unknown_sources_first">Para instalar esta aplicación primero debes activar la opción orígenes desconocidos en los ajustes de tu teléfono</string>
     <string name="enable_unknown_sources_btn">OK</string>
 
     <!-- Navigation Drawer List Array -->
